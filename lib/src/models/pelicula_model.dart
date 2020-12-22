@@ -14,7 +14,7 @@ class Peliculas {
 }
 
 class Pelicula {
-  String uniqueId;
+  String uniqueId = '';
 
   int voteCount;
   int id;
